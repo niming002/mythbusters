@@ -153,8 +153,8 @@ MythBusters.S2007E20.Exploding.Water.Heater.1080p.AMZN.WEBRip.DD2.0.x264-CasStud
 MythBusters.S2007E21.Super.Sized.Myths!.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 MythBusters.S2007E22.Shooting.Fish.in.a.Barrel.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 MythBusters.S2007E23.Pirates.2.540p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-MythBusters.S2007E25.Air.Plane.Hour.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 Mythbusters.S2007E24.Confederate.Steam.Gun.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
+MythBusters.S2007E25.Air.Plane.Hour.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 
 ./S2008:
 MythBusters.S2008E01.James.Bond.Special.Part.1.1080p.Rus.Eng.mkv
