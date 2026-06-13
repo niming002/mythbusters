@@ -34,9 +34,9 @@ You can DL from a cloud drive address
 ./S00:
 MythBusters.S00E01.MythBusters.Young.Scientists.Special.1080p.Rus.Eng.mkv
 MythBusters.S00E08.Duct.Tape.The.Return.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-MythBusters.S00E11.Top.25.Moments.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 Mythbusters.S00E09.Duct.Tape.Power.Hour.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 Mythbusters.S00E10.Return.to.Duct.Tape.Island.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
+MythBusters.S00E11.Top.25.Moments.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 
 ./S2003:
 MythBusters.S2003E01.Jet.Assisted.Chevy.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -158,7 +158,11 @@ Mythbusters.S2007E24.Confederate.Steam.Gun.1080p.AMZN.WEBRip.DD2.0.x264-CasStudi
 
 ./S2008:
 MythBusters.S2008E01.James.Bond.Special.Part.1.1080p.Rus.Eng.mkv
-MythBusters.S2008E05.Viewers.Special.2.2.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
+Mythbusters.S2008E02.Lead.Balloon.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
+Mythbusters.S2008E03.Airplane.on.a.Conveyor.Belt.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
+Mythbusters.S2008E04.James.Bond.Special.Part.2.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
+MythBusters.S2008E05.Viewers.Special.2.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
+Mythbusters.S2008E06.MacGyver.Myths.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 MythBusters.S2008E07.Alaska.Special.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 MythBusters.S2008E08.Shark.Week.2008.1080p.Rus.Eng.mkv
 MythBusters.S2008E09.Exploding.Steak.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -173,10 +177,6 @@ MythBusters.S2008E17.Motorcycle.Flip.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 MythBusters.S2008E18.Coffin.Punch.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 MythBusters.S2008E19.End.With.A.Bang.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 MythBusters.S2008E20.Viewer.Special.Threequel.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
-Mythbusters.S2008E02.Lead.Balloon.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
-Mythbusters.S2008E03.Airplane.on.a.Conveyor.Belt.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
-Mythbusters.S2008E04.James.Bond.Special.Part.2.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
-Mythbusters.S2008E06.MacGyver.Myths.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 
 ./S2009:
 MythBusters.S2009E01.Demolition.Derby.Special.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
