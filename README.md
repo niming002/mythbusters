@@ -26,6 +26,7 @@ You can DL from the magnet link
 
 I don't know the source of this version, maybe it originated from DVD. And the Super-Resolution effect in the early episodes is extremely poor.
 ‌
+
 Supplement: [kinozal.tv](https://kinozal.tv/details.php?id=1929840), but the video source is still unknown‌
 
 
