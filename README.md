@@ -25,6 +25,9 @@ You can DL from the magnet link
 `magnet:?xt=urn:btih:722750436EED8F1C002150DB81BBE246A72F25FD`
 
 I don't know the source of this version, maybe it originated from DVD. And the Super-Resolution effect in the early episodes is extremely poor.
+‌
+Supplement: [kinozal.tv](https://kinozal.tv/details.php?id=1929840), but the video source is still unknown‌
+
 
 # My mix (TVDB order)
 You can DL from a cloud drive address
