@@ -56,13 +56,13 @@ You can DL from a cloud drive address
 # ‌The numbered entries are documented on the wiki but do not exist in TVDB. "SPzz" is an unknown identifier that is absent from both the wiki and TVDB.‌
 ./SP:
 MythBusters.SP21.Blast.From.the.Past.1080i.HDTV-Upscale.DD5.1.MPEG2-TrollHD.ts
-00:42:33 4.6GB
+00:42:33	4.6GB
 MythBusters.SPzz.Car.Busting.Special.mkv
-01:31:31 2.1GB
+01:31:31	2.1GB
 MythBusters.SPzz.Cars.on.Celluloid.Special.mkv
-01:29:22 2.5GB
+01:29:22	2.5GB
 MythBusters.SPzz.Killer.Car.Special.mkv
-01:13:57 1.8GB
+01:13:57	1.8GB
 
 ./S00:
 MythBusters.S00E01.MythBusters.Young.Scientists.Special.1080p.Rus.Eng.mkv
