@@ -26,13 +26,31 @@ You can DL from the magnet link
 
 I don't know the source of this version, maybe it originated from DVD. And the Super-Resolution effect in the early episodes is extremely poor.
 ‌
-
 Supplement: [kinozal.tv](https://kinozal.tv/details.php?id=1929840), but the video source is still unknown‌
 
+# some scattered
+from R1 DVD 
+- MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
+- MythBusters.S2005E17.MythBusters.Jaws.Special.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
+- /Mini Shark Myths/... like DVDRip
+
+‌It comes from an unknown DVD, and all the contents inside are vehicle-related.‌
+- MythBusters.S00E02.Common.Car.Myths.Special
+- MythBusters.SPzz.Car.Busting.Special
+- MythBusters.SPzz.Cars.on.Celluloid.Special
+- MythBusters.SPzz.Killer.Car.Special
+
+else
+- MythBusters.SP21.Blast.From.the.Past.1080i.HDTV-Upscale.DD5.1.MPEG2-TrollHD
+ 
 
 # My mix (TVDB order)
 You can DL from a cloud drive address
-`https://pan.baidu.com/s/1YFoTzD-RWy5GmdDzAv-AzQ?pwd=je8o`
+`https://pan.baidu.com/s/1YFoTzD-RWy5GmdDzAv-AzQ?pwd=je8o` and
+`https://pan.baidu.com/s/1yZ0i31QsVXP46Tik10Z50g?pwd=z44k`
+
+‌Temporarily stored in two accounts, and will be merged later.‌
+
 
 ```
 ./S00:
