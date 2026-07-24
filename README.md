@@ -32,9 +32,9 @@ Supplement: [kinozal.tv](https://kinozal.tv/details.php?id=1929840), but the vid
 from R1 DVD 
 - MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
 - MythBusters.S2005E17.MythBusters.Jaws.Special.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
-- /Mini Shark Myths/... like DVDRip
+- /Mini Shark Myths/... *like DVDRip*
 
-‌It comes from an unknown DVD, and all the contents inside are vehicle-related.‌
+‌It comes from an unknown DVD, and all the contents inside are vehicle-related.‌ *like DVDRip*
 - MythBusters.S00E02.Common.Car.Myths.Special
 - MythBusters.SPzz.Car.Busting.Special
 - MythBusters.SPzz.Cars.on.Celluloid.Special
