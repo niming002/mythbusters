@@ -32,9 +32,9 @@ Supplement: [kinozal.tv](https://kinozal.tv/details.php?id=1929840), but the vid
 from R1 DVD 
 - MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
 - MythBusters.S2005E17.MythBusters.Jaws.Special.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE
-- /Mini Shark Myths/... *like DVDRip*
+- /Mini Shark Myths/... **like DVDRip**
 
-‌It comes from an unknown DVD, and all the contents inside are vehicle-related.‌ *like DVDRip*
+‌It comes from an unknown DVD, and all the contents inside are vehicle-related.‌ **like DVDRip**
 - MythBusters.S00E02.Common.Car.Myths.Special
 - MythBusters.SPzz.Car.Busting.Special
 - MythBusters.SPzz.Cars.on.Celluloid.Special
@@ -53,9 +53,22 @@ You can DL from a cloud drive address
 
 
 ```
+# ‌The numbered entries are documented on the wiki but do not exist in TVDB. "SPzz" is an unknown identifier that is absent from both the wiki and TVDB.‌
+./SP:
+MythBusters.SP21.Blast.From.the.Past.1080i.HDTV-Upscale.DD5.1.MPEG2-TrollHD.ts
+00:42:33 4.6GB
+MythBusters.SPzz.Car.Busting.Special.mkv
+01:31:31 2.1GB
+MythBusters.SPzz.Cars.on.Celluloid.Special.mkv
+01:29:22 2.5GB
+MythBusters.SPzz.Killer.Car.Special.mkv
+01:13:57 1.8GB
+
 ./S00:
 MythBusters.S00E01.MythBusters.Young.Scientists.Special.1080p.Rus.Eng.mkv
 00:43:17	2.05GB
+MythBusters.S00E02.Common.Car.Myths.Special.mkv
+01:32:02 2.1GB
 MythBusters.S00E08.Duct.Tape.The.Return.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:40	2.17GB
 Mythbusters.S00E09.Duct.Tape.Power.Hour.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
@@ -102,6 +115,8 @@ MythBusters.S2004E05.Buried.in.Concrete.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:47	0.95GB
 MythBusters.S2004E08.Myths.Revisited.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:27	2.93GB
+MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
+00:43:52 1.2GB
 MythBusters.S2004E10.Scuba.Diver,.Car.Capers.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:29	3.21GB
 MythBusters.S2004E11.Ancient.Death.Ray.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
@@ -158,10 +173,8 @@ MythBusters.S2005E15.Killer.Brace.Position.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mk
 00:49:30	2.95GB
 MythBusters.S2005E16.Bullet.Proof.Water.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:30	3.11GB
-MythBusters.S2005E17.MythBusters.Jaws.Special.1080p.Rus.Eng.mkv
-01:38:29	4.67GB
-MythBusters.S2005E17E.Shark.Week.Mini.Myths.1080p.Rus.Eng.mkv
-00:39:47	1.89GB
+MythBusters.S2005E17.MythBusters.Jaws.Special.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
+01:38:33 2.7GB
 MythBusters.S2005E18.Border.Slingshot.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:30	3.12GB
 MythBusters.S2005E19.Killer.Tissue.Box.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
