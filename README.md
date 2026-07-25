@@ -35,7 +35,7 @@ from R1 DVD
 - /Mini Shark Myths/... **like DVDRip**
 
 ‌from R4 DVD Car.Specials.Vol.1&2 **like DVDRip**
-- MythBusters.SPzz.Common.Car.Myths.Special
+- MythBusters.S00E02.Common.Car.Myths.Special
 - MythBusters.SPzz.Car.Busting.Special
 - MythBusters.SPzz.Cars.on.Celluloid.Special
 - MythBusters.SPzz.Killer.Car.Special
@@ -62,14 +62,14 @@ MythBusters.SPzz.Car.Busting.Special.mkv
 01:31:31	2.1GB
 MythBusters.SPzz.Cars.on.Celluloid.Special.mkv
 01:29:22	2.5GB
-MythBusters.SPzz.Common.Car.Myths.Special.mkv
-01:32:02	2.1GB
 MythBusters.SPzz.Killer.Car.Special.mkv
 01:13:57	1.8GB
 
 ./S00:
 MythBusters.S00E01.MythBusters.Young.Scientists.Special.1080p.Rus.Eng.mkv
 00:43:17	2.05GB
+MythBusters.S00E02.Common.Car.Myths.Special.mkv
+01:32:02	2.1GB
 MythBusters.S00E08.Duct.Tape.The.Return.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:40	2.17GB
 Mythbusters.S00E09.Duct.Tape.Power.Hour.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
@@ -643,4 +643,3 @@ MythBusters.S2016E10.Grand.Finale.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 MythBusters.S2016E11.The.Reunion.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:51	1.95GB
 ```
-
