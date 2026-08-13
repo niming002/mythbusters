@@ -46,7 +46,6 @@ else
 
 # My mix (TVDB order)
 You can DL from a cloud drive address
-`https://pan.baidu.com/s/1YFoTzD-RWy5GmdDzAv-AzQ?pwd=je8o` and
 `https://pan.baidu.com/s/1yZ0i31QsVXP46Tik10Z50g?pwd=z44k`
 
 ‌Temporarily stored in two accounts, and will be merged later.‌
