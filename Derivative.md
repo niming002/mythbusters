@@ -84,3 +84,69 @@ Mythbusters.Jr.S01E09.Deep.Space.Hollywood.1080p.NZL.AMZN.WEB-DL.H264.DDP-diu.mk
 Mythbusters.Jr.S01E10.Breaking.Bad.Blow-Up.1080p.NZL.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:46:40	3.19 GB
 ```
+
+# Mythbusters: There's Your Problem!
+```
+Mythbusters.There's.Your.Problem!.S01E01.Water.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:10	3.20 GB
+Mythbusters.There's.Your.Problem!.S01E02.Fire.&.Ice.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:16	3.17 GB
+Mythbusters.There's.Your.Problem!.S01E03.Rockets.&.Bullets.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:24	3.20 GB
+Mythbusters.There's.Your.Problem!.S01E04.Accidents.&.Weapons.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:44	3.22 GB
+Mythbusters.There's.Your.Problem!.S01E05.Under.Pressure.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:28	3.20 GB
+Mythbusters.There's.Your.Problem!.S01E06.Stunts.&.Speed.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:10	3.19 GB
+Mythbusters.There's.Your.Problem!.S01E07.Electrical.Friction.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:45:18	3.16 GB
+Mythbusters.There's.Your.Problem!.S01E08.Shock.&.Force.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:45:38	3.08 GB
+Mythbusters.There's.Your.Problem!.S01E09.Gravity.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:26	3.23 GB
+Mythbusters.There's.Your.Problem!.S01E10.Humans.&.Animals.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:22	3.21 GB
+
+Mythbusters.There's.Your.Problem!.S02E01.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:08	3.12 GB
+Mythbusters.There's.Your.Problem!.S02E02.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:18	3.14 GB
+Mythbusters.There's.Your.Problem!.S02E03.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:24	3.13 GB
+Mythbusters.There's.Your.Problem!.S02E04.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:12	3.12 GB
+Mythbusters.There's.Your.Problem!.S02E05.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:14	3.09 GB
+Mythbusters.There's.Your.Problem!.S02E06.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:20	3.13 GB
+Mythbusters.There's.Your.Problem!.S02E07.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:20	3.11 GB
+Mythbusters.There's.Your.Problem!.S02E08.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:40	3.14 GB
+Mythbusters.There's.Your.Problem!.S02E09.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:18	3.07 GB
+Mythbusters.There's.Your.Problem!.S02E10.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:12	3.14 GB
+
+Mythbusters.There's.Your.Problem!.S03E01.The.Fast.&.The.Curious.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:16	3.17 GB
+Mythbusters.There's.Your.Problem!.S03E02.Strike.It.Lucky.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:16	3.17 GB
+Mythbusters.There's.Your.Problem!.S03E03.Push.&.Pull.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:20	3.17 GB
+Mythbusters.There's.Your.Problem!.S03E04.Stuck.On.You.1080p.CAN.AMZN.WEB-DL.Unavailable
+-	-
+Mythbusters.There's.Your.Problem!.S03E05.Ancient.Tech.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:00	3.19 GB
+Mythbusters.There's.Your.Problem!.S03E06.Super.Human.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:12	3.17 GB
+Mythbusters.There's.Your.Problem!.S03E07.Beast.Mode.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:14	3.08 GB
+Mythbusters.There's.Your.Problem!.S03E08.Sporting.Chance.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:00	3.18 GB
+Mythbusters.There's.Your.Problem!.S03E09.Jet.Well.Soon.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:02	3.16 GB
+Mythbusters.There's.Your.Problem!.S03E10.Come.Fly.With.Me.1080p.CAN.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:46:06	3.14 GB
+```
