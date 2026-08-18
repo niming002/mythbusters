@@ -603,34 +603,34 @@ MythBusters.S2014E15.Plane.Boarding.Bite.the.Bullet.1080p.AMZN.WEB-DL.DDP.2.0.H.
 00:49:16	4.40GB
 
 ./S2015:
-MythBusters.S2015E01.The.Simpsons.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.52GB
-MythBusters.S2015E02.The.Busters.of.the.Lost.Myths.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.08GB
-MythBusters.S2015E03.The.A-Team.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.28GB
-MythBusters.S2015E04.Video.Games.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.16GB
+MythBusters.S2015E01.The.Simpsons.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.36 GB
+MythBusters.S2015E02.The.Busters.of.the.Lost.Myths.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.35 GB
+MythBusters.S2015E03.The.A-Team.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.34 GB
+MythBusters.S2015E04.Video.Games.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.38 GB
 MythBusters.S2015E05.Transformers.1080p.Rus.Eng.mkv
 00:48:31	2.30GB
-MythBusters.S2015E06.San.Francisco.Drift.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	2.99GB
-MythBusters.S2015E07.Blow.It.Out.of.the.Water.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.16GB
-MythBusters.S2015E08.Flights.of.Fantasy.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	2.91GB
-MythBusters.S2015E09.Accidental.Ammo.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.46GB
-MythBusters.S2015E10.Dangerous.Driving.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	2.76GB
-MythBusters.S2015E11.Supernatural.Shooters.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.26GB
-MythBusters.S2015E12.Unfinished.Business.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	3.24GB
+MythBusters.S2015E06.San.Francisco.Drift.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.38 GB
+MythBusters.S2015E07.Blow.It.Out.of.the.Water.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.35 GB
+MythBusters.S2015E08.Flights.of.Fantasy.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.36 GB
+MythBusters.S2015E09.Accidental.Ammo.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.34 GB
+MythBusters.S2015E10.Dangerous.Driving.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.35 GB
+MythBusters.S2015E11.Supernatural.Shooters.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.35 GB
+MythBusters.S2015E12.Unfinished.Business.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.36 GB
 MythBusters.S2015E13.Mythbusters.vs.Jaws.1080p.Rus.Eng.mkv
 00:44:20	2.10GB
-MythBusters.S2015E14.Star.Wars.The.Myths.Strike.Back.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:34	2.82GB
+MythBusters.S2015E14.Star.Wars.The.Myths.Strike.Back.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:32	3.36 GB
 
 ./S2016:
 MythBusters.S2016E01.MythBusters.Revealed.The.Behind.the.Scenes.Season.Opener.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
