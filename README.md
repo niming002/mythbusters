@@ -50,8 +50,8 @@ else
 
 # My mix (TVDB order)
 You can DL from a cloud drive address
-`https://pan.baidu.com/s/1yZ0i31QsVXP46Tik10Z50g?pwd=z44k`
-
+`https://pan.baidu.com/s/1yZ0i31QsVXP46Tik10Z50g?pwd=z44k` and
+`https://pan.baidu.com/s/1B4_3pj6hQUYHrBBPAoFoWQ?pwd=v6bk`
 ‌Temporarily stored in two accounts, and will be merged later.‌
 
 
@@ -70,27 +70,27 @@ MythBusters.SPzz.Killer.Car.Special.mkv
 
 ./S00:
 MythBusters.S00E01.MythBusters.Young.Scientists.Special.1080p.Rus.Eng.mkv
-00:43:17	2.05 GB
+00:43:17	2.05GB
 MythBusters.S00E02.Common.Car.Myths.Special.mkv
-01:34:02	2.06 GB
+01:34:02	2.06GB
 MythBusters.S00E03.Buster's.Cut.Unarmed.and.Unharmed.720p.HDTV.DD5.1.x264-RZF.MKV
-00:43:26	2.00 GB
+00:43:26	2.00GB
 MythBusters.S00E04.Buster's.Cut.Phone.Book.Friction.720p.HDTV.DD5.1.x264-RZF.mkv
-00:43:33	2.00 GB
+00:43:33	2.00GB
 MythBusters.S00E05.Buster's.Cut.Duct.Tape.Hour.1.720p.HDTV.DD5.1.x264-RZF.mkv
-00:43:30	2.00 GB
+00:43:30	2.00GB
 MythBusters.S00E06.Buster's.Cut.Curving.Bullets.720p.HDTV.DD5.1.x264-RZF.mkv
-00:43:24	2.00 GB
+00:43:24	2.00GB
 MythBusters.S00E07.Buster's.Cut.Spy.Car.Escape.720p.HDTV.DD5.1.x264-RZF.mkv
-00:43:29	2.00 GB
+00:43:29	2.00GB
 MythBusters.S00E08.Duct.Tape.The.Return.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:38	2.97 GB
+00:48:38	2.97GB
 Mythbusters.S00E09.Duct.Tape.Power.Hour.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:42:08	2.50 GB
+00:42:08	2.50GB
 Mythbusters.S00E10.Return.to.Duct.Tape.Island.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:42:08	2.60 GB
+00:42:08	2.60GB
 MythBusters.S00E11.Top.25.Moments.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-01:34:32	6.56 GB
+01:34:32	6.56GB
 
 ./S2003:
 MythBusters.S2003E01.Jet.Assisted.Chevy.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -411,8 +411,8 @@ MythBusters.S2009E23.Mini.Myth.Mayhem.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 ./S2010:
 MythBusters.S2010E01.Boomerang.Bullet.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:05	4.20GB
-MythBusters.S2010E02.Soda.Cup.Killer.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:11	3.17GB
+MythBusters.S2010E02.Soda.Cup.Killer.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:10	3.40GB
 MythBusters.S2010E03.Dive.to.Survive.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:06	4.45GB
 MythBusters.S2010E04.Spy.Car.Escape.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -604,55 +604,55 @@ MythBusters.S2014E15.Plane.Boarding.Bite.the.Bullet.1080p.AMZN.WEB-DL.DDP.2.0.H.
 
 ./S2015:
 MythBusters.S2015E01.The.Simpsons.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.36 GB
+00:48:32	3.36GB
 MythBusters.S2015E02.The.Busters.of.the.Lost.Myths.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.35 GB
+00:48:32	3.35GB
 MythBusters.S2015E03.The.A-Team.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.34 GB
+00:48:32	3.34GB
 MythBusters.S2015E04.Video.Games.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.38 GB
+00:48:32	3.38GB
 MythBusters.S2015E05.Transformers.1080p.Rus.Eng.mkv
 00:48:31	2.30GB
 MythBusters.S2015E06.San.Francisco.Drift.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.38 GB
+00:48:32	3.38GB
 MythBusters.S2015E07.Blow.It.Out.of.the.Water.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.35 GB
+00:48:32	3.35GB
 MythBusters.S2015E08.Flights.of.Fantasy.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.36 GB
+00:48:32	3.36GB
 MythBusters.S2015E09.Accidental.Ammo.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.34 GB
+00:48:32	3.34GB
 MythBusters.S2015E10.Dangerous.Driving.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.35 GB
+00:48:32	3.35GB
 MythBusters.S2015E11.Supernatural.Shooters.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.35 GB
+00:48:32	3.35GB
 MythBusters.S2015E12.Unfinished.Business.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.36 GB
+00:48:32	3.36GB
 MythBusters.S2015E13.Mythbusters.vs.Jaws.1080p.Rus.Eng.mkv
 00:44:20	2.10GB
 MythBusters.S2015E14.Star.Wars.The.Myths.Strike.Back.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:32	3.36 GB
+00:48:32	3.36GB
 
 ./S2016:
 MythBusters.S2016E01.MythBusters.Revealed.The.Behind.the.Scenes.Season.Opener.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:40	2.83 GB
+00:48:40	2.83GB
 MythBusters.S2016E02.The.Explosion.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:04	2.99 GB
+00:48:04	2.99GB
 MythBusters.S2016E03.Tanker.Crush.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:47:44	2.84 GB
+00:47:44	2.84GB
 MythBusters.S2016E04.Cooking.Chaos.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:04	2.84 GB
+00:48:04	2.84GB
 MythBusters.S2016E05.Driven.to.Destruction.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:47:48	2.87 GB
+00:47:48	2.87GB
 MythBusters.S2016E06.Volunteer.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:47:50	3.05 GB
+00:47:50	3.05GB
 MythBusters.S2016E07.Failure.Is.Not.an.Option!.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:47:54	2.90 GB
+00:47:54	2.90GB
 MythBusters.S2016E08.Rocketmen.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:04	2.82 GB
+00:48:04	2.82GB
 MythBusters.S2016E09.The.Reddit.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:47:50	2.88 GB
+00:47:50	2.88GB
 MythBusters.S2016E10.Grand.Finale.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:38	2.94 GB
+00:48:38	2.94GB
 MythBusters.S2016E11.The.Reunion.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:50	2.59 GB
+00:48:50	2.59GB
 ```
