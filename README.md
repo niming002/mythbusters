@@ -127,32 +127,32 @@ MythBusters.S2004E04.Breakstep.Bridge.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:47	0.99GB
 MythBusters.S2004E05.Buried.in.Concrete.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:47	0.95GB
-MythBusters.S2004E08.Myths.Revisited.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:27	2.93GB
+MythBusters.S2004E08.Myths.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:24	3.46GB
 MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
-00:43:52	1.2GB
-MythBusters.S2004E10.Scuba.Diver,.Car.Capers.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:29	3.21GB
-MythBusters.S2004E11.Ancient.Death.Ray.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.17GB
-MythBusters.S2004E12.Elevator.of.Death,.Levitation.Machine.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.14GB
-MythBusters.S2004E13.Beat.the.Radar.Detector.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:29	3.07GB
-MythBusters.S2004E14.Quicksand,.Bathtub.Electrocution,.MRI.Rays.and.Tattoos.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:29	2.89GB
-MythBusters.S2004E15.Exploding.Jawbreaker.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	2.92GB
-MythBusters.S2004E16.Pingpong.Rescue.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.35GB
-MythBusters.S2004E17.Boom-Lift.Catapult.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.04GB
-MythBusters.S2004E18.Exploding.House.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.51GB
-MythBusters.S2004E19.Ming.Dynasty.Astronaut.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.00GB
-MythBusters.S2004E20.Christmas.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.27GB
+00:43:52	1.19GB
+MythBusters.S2004E10.Scuba.Diver,.Car.Capers.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2004E11.Ancient.Death.Ray.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2004E12.Elevator.of.Death,.Levitation.Machine.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2004E13.Beat.the.Radar.Detector.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2004E14.Quicksand,.Bathtub.Electrocution,.MRI.Rays.and.Tattoos.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2004E15.Exploding.Jawbreaker.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2004E16.Pingpong.Rescue.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.47GB
+MythBusters.S2004E17.Boom-Lift.Catapult.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.48GB
+MythBusters.S2004E18.Exploding.House.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.48GB
+MythBusters.S2004E19.Ming.Dynasty.Astronaut.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.47GB
+MythBusters.S2004E20.Christmas.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.49GB
 
 ./S2005:
 MythBusters.S2005E01.Buster.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
