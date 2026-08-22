@@ -155,58 +155,58 @@ MythBusters.S2004E20.Christmas.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:26	3.49GB
 
 ./S2005:
-MythBusters.S2005E01.Buster.Special.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.27GB
-MythBusters.S2005E02.Ultimate.MythBusters.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.25GB
-MythBusters.S2005E03.Brown.Note.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.08GB
-MythBusters.S2005E04.Salsa.Escape.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:28	3.14GB
-MythBusters.S2005E05.Exploding.Port-a-Potty.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.07GB
-MythBusters.S2005E06.Is.Yawning.Contagious.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.19GB
-MythBusters.S2005E07.MythBusters.Outtakes.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.22GB
-MythBusters.S2005E08.Cooling.a.Six-Pack.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.23GB
-MythBusters.S2005E09.Son.of.a.Gun.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.36GB
-MythBusters.S2005E10.Shop.'til.You.Drop.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.57GB
-MythBusters.S2005E11.MythBusters.Revealed.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.03GB
-MythBusters.S2005E12.Hollywood.On.Trial.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.36GB
-MythBusters.S2005E13.Breaking.Glass.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.12GB
-MythBusters.S2005E14.Jet.Pack.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.00GB
-MythBusters.S2005E15.Killer.Brace.Position.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	2.95GB
-MythBusters.S2005E16.Bullet.Proof.Water.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.11GB
+MythBusters.S2005E01.Buster.Special.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.48GB
+MythBusters.S2005E02.Ultimate.MythBusters.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.50GB
+MythBusters.S2005E03.Brown.Note.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.48GB
+MythBusters.S2005E04.Salsa.Escape.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:26	3.49GB
+MythBusters.S2005E05.Exploding.Port-a-Potty.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E06.Is.Yawning.Contagious.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E07.MythBusters.Outtakes.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E08.Cooling.a.Six-Pack.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.50GB
+MythBusters.S2005E09.Son.of.a.Gun.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E10.Shop.'til.You.Drop.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2005E11.MythBusters.Revealed.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E12.Hollywood.On.Trial.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.48GB
+MythBusters.S2005E13.Breaking.Glass.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.45GB
+MythBusters.S2005E14.Jet.Pack.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2005E15.Killer.Brace.Position.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2005E16.Bullet.Proof.Water.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.42GB
 MythBusters.S2005E17.MythBusters.Jaws.Special.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
-01:38:33	2.7GB
-MythBusters.S2005E18.Border.Slingshot.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.12GB
-MythBusters.S2005E19.Killer.Tissue.Box.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.08GB
-MythBusters.S2005E20.Escape.Slide.Parachute.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.07GB
-MythBusters.S2005E21.MythBusters.Revisited.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.02GB
-MythBusters.S2005E22.Chinese.Invasion.Alarm.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:30	3.30GB
-MythBusters.S2005E23.Confederate.Rocket.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.04GB
-MythBusters.S2005E24.Vodka.Myths.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:10	3.08GB
-MythBusters.S2005E25.Steel.Toe.Amputation.Amputation.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:02	3.01GB
-MythBusters.S2005E26.Seasickness.-.Kill.or.Cure.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.03GB
+01:38:33	2.70GB
+MythBusters.S2005E18.Border.Slingshot.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.40GB
+MythBusters.S2005E19.Killer.Tissue.Box.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.47GB
+MythBusters.S2005E20.Escape.Slide.Parachute.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.45GB
+MythBusters.S2005E21.MythBusters.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.46GB
+MythBusters.S2005E22.Chinese.Invasion.Alarm.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:28	3.45GB
+MythBusters.S2005E23.Confederate.Rocket.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
+MythBusters.S2005E24.Vodka.Myths.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:08	3.52GB
+MythBusters.S2005E25.Steel.Toe.Amputation.Amputation.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:00	3.46GB
+MythBusters.S2005E26.Seasickness.-.Kill.or.Cure.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.47GB
 
 ./S2006:
 MythBusters.S2006E01.Paper.Crossbow.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
