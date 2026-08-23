@@ -209,62 +209,62 @@ MythBusters.S2005E26.Seasickness.-.Kill.or.Cure.1080p.AUS.AMZN.WEB-DL.H264.DDP-d
 00:50:02	3.47GB
 
 ./S2006:
-MythBusters.S2006E01.Paper.Crossbow.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.02GB
-MythBusters.S2006E02.Shredded.Plane.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.17GB
-MythBusters.S2006E03.Archimedes.Death.Ray.Revisited.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:00	3.13GB
-MythBusters.S2006E04.Helium.Football.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	2.88GB
-MythBusters.S2006E05.Franklin's.Kite.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	2.93GB
-MythBusters.S2006E06.Cell.Phones.on.Planes.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.12GB
-MythBusters.S2006E07.Bullets.Fired.Up.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.10GB
-MythBusters.S2006E08.Myths.Reopened.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.10GB
-MythBusters.S2006E09.Mind.Control.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.02GB
-MythBusters.S2006E10.Exploding.Pants.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.16GB
-MythBusters.S2006E11.Crimes.and.Myth-demeanors.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	2.95GB
-MythBusters.S2006E12.Steam.Cannon.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.06GB
-MythBusters.S2006E13.Killer.Whirlpool.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.09GB
-MythBusters.S2006E14.Diet.Coke.and.Mentos.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.23GB
-MythBusters.S2006E15.Shattering.Subwoofer.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.05GB
-MythBusters.S2006E16.Crimes.and.Myth-demeanors.2.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:48:25	3.19GB
-MythBusters.S2006E17.Earthquake.Machine.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.06GB
-MythBusters.S2006E18.Deadly.Straw.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.03GB
+MythBusters.S2006E01.Paper.Crossbow.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E02.Shredded.Plane.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.50GB
+MythBusters.S2006E03.Archimedes.Death.Ray.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:49:58	3.43GB
+MythBusters.S2006E04.Helium.Football.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.44GB
+MythBusters.S2006E05.Franklin's.Kite.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.44GB
+MythBusters.S2006E06.Cell.Phones.on.Planes.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
+MythBusters.S2006E07.Bullets.Fired.Up.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E08.Myths.Reopened.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.47GB
+MythBusters.S2006E09.Mind.Control.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.51GB
+MythBusters.S2006E10.Exploding.Pants.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E11.Crimes.and.Myth-demeanors.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.43GB
+MythBusters.S2006E12.Steam.Cannon.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E13.Killer.Whirlpool.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E14.Diet.Coke.and.Mentos.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:00	3.48GB
+MythBusters.S2006E15.Shattering.Subwoofer.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
+MythBusters.S2006E16.Crimes.and.Myth-demeanors.2.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:48:24	3.38GB
+MythBusters.S2006E17.Earthquake.Machine.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
+MythBusters.S2006E18.Deadly.Straw.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
 MythBusters.S2006E19.Mega.Movie.Myths.1080p.Rus.Eng.mkv
 01:34:00	4.58GB
-MythBusters.S2006E20.Killer.Cable.Snaps.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.29GB
-MythBusters.S2006E21.Air.Cylinder.Rocket.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	2.96GB
-MythBusters.S2006E22.More.Myths.Revisited.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.11GB
-MythBusters.S2006E23.Exploding.Lighter.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.03GB
-MythBusters.S2006E24.Concrete.Glider.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.45GB
-MythBusters.S2006E25.Firearms.Folklore.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	2.90GB
-MythBusters.S2006E26.Anti-Gravity.Device.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:02	3.57GB
+MythBusters.S2006E20.Killer.Cable.Snaps.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.51GB
+MythBusters.S2006E21.Air.Cylinder.Rocket.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.46GB
+MythBusters.S2006E22.More.Myths.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.48GB
+MythBusters.S2006E23.Exploding.Lighter.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E24.Concrete.Glider.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.49GB
+MythBusters.S2006E25.Firearms.Folklore.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:02	3.47GB
+MythBusters.S2006E26.Anti-Gravity.Device.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:00	3.50GB
 MythBusters.S2006E27.Holiday.Special.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:18	1.00GB
-MythBusters.S2006E28.22,000.Foot.Fall.1080p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:50:03	3.01GB
+MythBusters.S2006E28.22,000.Foot.Fall.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
+00:50:00	3.47GB
 
 ./S2007:
 MythBusters.S2007E01.Hindenburg.Mystery.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
