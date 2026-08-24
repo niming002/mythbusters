@@ -311,7 +311,7 @@ MythBusters.S2007E21.Super.Sized.Myths!.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 01:34:15	1.79GB
 MythBusters.S2007E22.Shooting.Fish.in.a.Barrel.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 00:48:31	4.73GB
-MythBusters.S2007E23.Pirates.2.540p.GBR.AMZN.WEB-DL.H264.DDP-diu.mkv
+MythBusters.S2007E23.Pirates.2.540p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:34	1.09GB
 Mythbusters.S2007E24.Confederate.Steam.Gun.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 00:48:31	4.49GB
