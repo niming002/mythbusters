@@ -129,7 +129,7 @@ MythBusters.S2004E05.Buried.in.Concrete.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:47	0.95GB
 MythBusters.S2004E08.Myths.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:24	3.46GB
-MythBusters.S2004E09.Best Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
+MythBusters.S2004E09.Best.Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
 00:43:52	1.19GB
 MythBusters.S2004E10.Scuba.Diver,.Car.Capers.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:28	3.47GB
