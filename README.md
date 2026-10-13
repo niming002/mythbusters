@@ -89,8 +89,8 @@ Mythbusters.S00E09.Duct.Tape.Power.Hour.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:42:08	2.50GB
 Mythbusters.S00E10.Return.to.Duct.Tape.Island.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:42:08	2.60GB
-MythBusters.S00E11.Top.25.Moments.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-01:34:32	6.56GB
+MythBusters.S00E11.Top.25.Moments.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
+01:34:00	8.53GB
 
 ./S2003:
 MythBusters.S2003E01.Jet.Assisted.Chevy.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
