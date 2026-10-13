@@ -411,8 +411,8 @@ MythBusters.S2009E23.Mini.Myth.Mayhem.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 ./S2010:
 MythBusters.S2010E01.Boomerang.Bullet.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:05	4.20GB
-MythBusters.S2010E02.Soda.Cup.Killer.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
-00:49:10	3.40GB
+MythBusters.S2010E02.Soda.Cup.Killer.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
+00:48:30	4.09GB
 MythBusters.S2010E03.Dive.to.Survive.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:06	4.45GB
 MythBusters.S2010E04.Spy.Car.Escape.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
