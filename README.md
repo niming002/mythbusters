@@ -129,8 +129,6 @@ MythBusters.S2004E05.Buried.in.Concrete.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:47	0.95GB
 MythBusters.S2004E08.Myths.Revisited.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:24	3.46GB
-MythBusters.S2004E09.Best.Explosions.480i.DVD.REMUX.DD.2.0.MPEG2-JySzE.mkv
-00:43:52	1.19GB
 MythBusters.S2004E10.Scuba.Diver,.Car.Capers.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:49:28	3.47GB
 MythBusters.S2004E11.Ancient.Death.Ray.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
@@ -319,22 +317,22 @@ MythBusters.S2007E25.Air.Plane.Hour.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:48:45	0.93GB
 
 ./S2008:
-MythBusters.S2008E01.James.Bond.Special.Part.1.1080p.Rus.Eng.mkv
-00:48:00	2.28GB
+MythBusters.S2008E01.James.Bond.Special.Part.1
+00:48:32	(exist AUS.Blu-ray version)
 Mythbusters.S2008E02.Lead.Balloon.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:48:45	0.94GB
 Mythbusters.S2008E03.Airplane.on.a.Conveyor.Belt.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 00:48:31	4.30GB
-Mythbusters.S2008E04.James.Bond.Special.Part.2.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
-00:48:31	4.46GB
+Mythbusters.S2008E04.James.Bond.Special.Part.2
+00:48:32	(exist AUS.Blu-ray version)
 MythBusters.S2008E05.Viewers.Special.2.576p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:48:49	0.98GB
 Mythbusters.S2008E06.MacGyver.Myths.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio.mkv
 00:48:31	4.65GB
 MythBusters.S2008E07.Alaska.Special.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:05	4.47GB
-MythBusters.S2008E08.Shark.Week.2008.1080p.Rus.Eng.mkv
-01:34:00	4.58GB
+MythBusters.S2008E08.Shark.Week
+01:34:08	(exist AUS.Blu-ray/CAN.Blu-ray version)
 MythBusters.S2008E09.Exploding.Steak.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:05	4.55GB
 MythBusters.S2008E10.NASA.Moon.Landing.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -527,8 +525,8 @@ MythBusters.S2012E11.Duel.Dilemmas.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:16	4.38GB
 MythBusters.S2012E12.Hollywood.Gunslingers.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:07	4.20GB
-MythBusters.S2012E13.Jawsome.Shark.Special.1080p.AMZN.WEBRip.DD5.1.x264-CasStudio.mkv
-00:42:35	3.56GB
+MythBusters.S2012E13.Jawsome.Shark.Special
+Not found
 MythBusters.S2012E14.Titanic.Survival.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
 00:49:16	4.51GB
 MythBusters.S2012E15.Trench.Torpedo.1080p.AMZN.WEB-DL.DDP.2.0.H.264-FLUX.mkv
@@ -627,8 +625,8 @@ MythBusters.S2015E11.Supernatural.Shooters.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mk
 00:48:32	3.35GB
 MythBusters.S2015E12.Unfinished.Business.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:32	3.36GB
-MythBusters.S2015E13.Mythbusters.vs.Jaws.1080p.Rus.Eng.mkv
-00:44:20	2.10GB
+MythBusters.S2015E13.Mythbusters.vs.Jaws
+Not found
 MythBusters.S2015E14.Star.Wars.The.Myths.Strike.Back.1080p.AUS.AMZN.WEB-DL.H264.DDP-diu.mkv
 00:48:32	3.36GB
 
