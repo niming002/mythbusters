@@ -5,10 +5,13 @@ You can DL from the magnet link
 `magnet:?xt=urn:btih:36B179BD7A074A5759594F3BDB0092A543662892`
 
 There are the following errors: 
-- S2007E23.Pirates.2 actually is 'Grenades.and.Guts'
-- S2008E01.James.Bond.Special.Part.1 actually is 'Blind.Driving'
-- S2008E04.James.Bond.Special.Part.2 actually is 'Special.Supersized.Myths'
-- S2010E02.Soda.Cup.Killer actually is 'Mythssion.Control'
+- S2007E23.Pirates.2 actually is S2007E12.Grenades.and.Guts
+- S2008E01.James.Bond.Special.Part.1 actually is S2008E14.Blind.Driving
+- S2008E04.James.Bond.Special.Part.2 actually is S2007E21.Super.Sized.Myths!
+- S2010E02.Soda.Cup.Killer actually is S2010E07.Mythssion.Control
+- S2009E12.Knock.Your.Socks.Off, incorrect balance of dialogue and ambient noise
+- S2009E14.Dirty.vs.Clean.Car, incorrect balance of dialogue and ambient noise
+- S2009E15.Greased.Lightning, incorrect balance of dialogue and ambient noise
 
 # -diu
 This is UK or Australia AMZN's 2025 copyright.
@@ -16,9 +19,9 @@ This is UK or Australia AMZN's 2025 copyright.
 # -CasStudio
 This is AMZN's 2016 copyright. I'm not sure, this should be the version of US AMZN.
 
-Apart from the episodes I collected, compared to the other three sets, CasStudio also has some episodes from S2007 and S2008 with higher resolution and bitrate. However, they are either 44-minute versions or have minor cuts from the 48-minute ones — I don't collect these.
+**CasStudio actually is WEB-DL**
 
-**CasStudio is WEBRip, However, there is a version that has tampered with the metadata of CasStudio's mkv file and renamed it to WEB-DL. Be careful not to overwrite CasStudio with that version.**
+**There is a version that has tampered with the metadata of CasStudio's mkv file. Be careful not to overwrite CasStudio with that version.**
 
 # Rus.Eng-NoGroup
 You can DL from the magnet link
